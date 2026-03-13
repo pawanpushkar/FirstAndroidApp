@@ -46,7 +46,7 @@ Through this project, I learned:
 - Basic Android UI design
 
 ## Author
-Dipak Singh
+Pawan Pushkar
 
 ## GitHub Repository
-(Add your GitHub link here)
+https://github.com/pawanpushkar/FirstAndroidApp.git
