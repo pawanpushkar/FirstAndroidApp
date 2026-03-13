@@ -1,32 +1,52 @@
 # First Android App
 
-This is my first Android application built using **Kotlin** and **Android Studio**.
+## Project Overview
+This project is a simple Android application developed using Java in Android Studio.  
+The application demonstrates basic Android development concepts including UI interaction and button events.
 
-## 📱 App Description
-This simple app displays a message:
+## Features
+- Display Toast messages
+- Counter functionality
+- Random number generator
+- Simple user interface
 
-Hello Android!
-
-The purpose of this project is to set up the Android development environment and run the first Android application.
-
-## 🛠 Technologies Used
+## Technologies Used
+- Java
 - Android Studio
-- Kotlin
-- Jetpack Compose
+- Android SDK
+- XML Layout
 
-## 🚀 Features
-- Simple UI
-- Displays "Hello Android!"
-- Runs on Android Emulator
+## Project Structure
+FirstAndroidApp
+│
+├── app
+│ ├── src
+│ │ ├── main
+│ │ │ ├── java
+│ │ │ ├── res
+│ │ │ └── AndroidManifest.xml
+│
+├── build.gradle
+├── settings.gradle
 
-## 📂 Project Setup
-1. Install Android Studio
-2. Clone the repository
-3. Open the project in Android Studio
-4. Run the app using an emulator or physical device
+## How to Run the Project
+1. Clone the repository
+2. Open the project in Android Studio
+3. Sync Gradle files
+4. Run the app on an emulator or Android device
 
-## 🔗 GitHub Repository
-https://github.com/pawanpushkar/FirstAndroidApp
+## APK File
+The repository also contains the generated APK file which can be directly installed on Android devices.
 
-## 📌 Author
-Pawan Pushkar
+## Learning Outcomes
+Through this project, I learned:
+- Android Studio project structure
+- Handling button click events
+- Toast messages
+- Basic Android UI design
+
+## Author
+Dipak Singh
+
+## GitHub Repository
+(Add your GitHub link here)
